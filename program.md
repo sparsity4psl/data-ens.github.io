@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Program"
-description: "<b>Sparsity for Physics, Signal and Learning <br> June 24th - 27th</b>"
+description: "<b>Sparsity for Physics, Signal and Learning <br> June 24th - 27th 2019</b>"
 header-img: "img/inria.png"
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Sparsity4PSL Summer School"
-description: "<b>Sparsity for Physics, Signal and Learning <br> June 24th - 27th</b>"
+description: "<b>Sparsity for Physics, Signal and Learning <br> June 24th - 27th 2019</b>"
 header-img: "img/paris-night1.png"
 ---
 
@@ -10,7 +10,7 @@ Welcome to the "Sparsity for Physics, Signal and Learning" summer school.
 Where and when
 ============================
 
-  * **June 24th - 27th**
+  * **June 24th - 27th 2019**
   * **INRIA - Paris, 2 rue Simone Iff, 75012 Paris, France.**
 
 Registration

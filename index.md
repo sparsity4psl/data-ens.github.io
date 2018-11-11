@@ -27,23 +27,23 @@ This summer school will be the opportunity to bring together students, researche
 Speakers
 ===========================
 #### Courses
-  * Yohann De Castro (ENPC)
-  * Emilie Chouzenoux (Paris Est Marne-la-Vallée)
-  * Karen Veroy-Grepl (RWTH-Aachen)
-  * Bernard Haasdonk (Stuttgart University)
+* [Yohann De Castro](https://ydecastro.github.io/) (ENPC)
+* [Emilie Chouzenoux](http://www-syscom.univ-mlv.fr/~chouzeno/) (Paris Est Marne-la-Vallée)
+* [Karen Veroy-Grepl](https://www.aices.rwth-aachen.de/en/about-aices/people/principal-investigators/details-zur-person/veroy-grepl) (RWTH-Aachen)
+* [Bernard Haasdonk](https://www.ians.uni-stuttgart.de/institute/team/Haasdonk-00005/) (Stuttgart University)
 
 #### Talks
-  * Albert Cohen (Sorbonne Université)
-  * Yvon Maday (Sorbonne Université)
-  * Laure Blanc-Féraud (CNRS)
-  * Rémi Gribonval (INRIA)
+* [Albert Cohen](https://www.ljll.math.upmc.fr/cohen/) (Sorbonne Universités)
+* [Yvon Maday](https://www.ljll.math.upmc.fr/maday/) (Sorbonne Universités)
+* [Laure Blanc-Féraud](http://www-sop.inria.fr/members/Laure.Blanc_Feraud/) (CNRS)
+* [Rémi Gribonval](https://people.irisa.fr/Remi.Gribonval/) (INRIA)
 
 Organizers
 ===========================
-  * Vincent Duval (INRIA)
-  * Olga Mula (Université Paris Dauphine)
-  * Nicolas Keriven (ENS)
-  * Gabriel Peyré (CNRS, ENS)
+* [Vincent Duval](https://who.rocq.inria.fr/Vincent.Duval/index.html) (INRIA)
+* [Olga Mula](https://www.ceremade.dauphine.fr/~mula/) (Université Paris Dauphine)
+* [Nicolas Keriven](https://nkeriven.github.io/) (ENS)
+* [Gabriel Peyré](http://www.gpeyre.com/) (CNRS, ENS)
 
 Supported by
 ===========================

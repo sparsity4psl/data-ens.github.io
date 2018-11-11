@@ -1,7 +1,7 @@
 %%
 % Generate pixelization.
 
-% name = 'ens7';
+name = 'paris-night2';
 
 rep = 'results/';
 if not(exist(rep))

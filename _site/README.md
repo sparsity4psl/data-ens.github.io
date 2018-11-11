@@ -1,2 +1,2 @@
-# data-ens.github.io
-Site web of the Data Seminar @ ENS
+# sparsity4psl.github.io
+Site web of the Sparsity4PSL summer school

@@ -1,30 +1,49 @@
 ---
 layout: page
-title: "Data @ ENS"
-description: "CFM-ENS Data Science Chair"
-header-img: "img/ens1.png"
+title: "Sparsity4PSL Summer School"
+description: "<b>Sparsity for Physics, Signal and Learning <br> June 24th - 27th</b>"
+header-img: "img/paris-night1.png"
 ---
 
-Welcome to the [CFM](https://www.cfm.fr/)-[ENS](http://www.ens.fr) Chair "_Modèles et Sciences des Données_" of the [ENS](http://www.ens.fr/).
+Welcome to the "Sparsity for Physics, Signal and Learning" summer school.
 
-Goal
+Where and when
 ============================
 
-This chair is organized around data sciences in a broad sense with the goal of bringing together researchers with diverse backgrounds (including for instance [mathematics](http://www.math.ens.fr/), [computer science](https://www.di.ens.fr/), [physics](https://www.phys.ens.fr/), [chemistry](http://www.chimie.ens.fr/) and [neuroscience](http://www.biologie.ens.fr/depbio/)) but a common interest in dealing with large scale or high dimensional data.
+  * **June 24th - 27th**
+  * **INRIA - Paris, 2 rue Simone Iff, 75012 Paris, France.**
 
-The main activities of the chair are:
-
-- It organizes the monthly [_Data Science Colloquium of the ENS_](seminar/).
-- It hosts the "_Laplace Junior Professor Chair in Data Science_" program, see the [job openings announcements](jobs/) for more details.
-- It supports the [_Challenge Data_ program](https://challengedata.ens.fr/en/home).
-
-Scientific Committee
+Registration
 ============================
 
-- [Florent Krzakala](http://krzakala.org/) (ENS and UPMC): director ;
-- [Stéphane Mallat](https://www.di.ens.fr/~mallat/) (ENS) ;
-- [Pascal Mamassian](http://mamassian.free.fr/free/Home.html) (CNRS and ENS) ;
-- [Gabriel Peyré](http://gpeyre.github.io/) (CNRS and ENS).
+Coming soon.
+
+Topics
+===========================
+[comment]: # Dans de nombreux domaines des sciences, de l'industrie et de leurs applications, la bonne approximation de fonctions et de signaux définis dans des espaces en grande dimension joue un rôle central dans des tâches de prédiction et prise de décision. Dans ce contexte, il est important d'exploiter les propriétés de parcimonie des signaux et d'exploiter le plus efficacement possible les données à disposition. La parcimonie et la forme des données est très variable en fonction des applications et demande des compétences transverses. Dans l'école d'été Sparsity4PSL, nous souhaitons donner un aperçu de cette variabilité et montrer les fondements de méthodes parcimonieuses actuelles dans diverses thématiques clés comme le traitement d'image, la résolution d'EDP paramétrées et le traitement de grandes masses de données.
+
+This summer school will be the opportunity to bring together students, researchers and people working on the Sparsity and its applications to High-Dimensional Data. It will include four courses at Master/PhD level (no background required) and four additional talks on the modern applications of sparse methods in domains such as imaging, parametric PDE, and large-scale data processing. The mathematical foundations of this event will lie between probability, statistics, optimization, image and signal processing.
+
+Speakers
+===========================
+#### Courses
+  * Yohann De Castro (ENPC)
+  * Emilie Chouzenoux (Paris Est Marne-la-Vallée)
+  * Karen Veroy-Grepl (RWTH-Aachen)
+  * Bernard Haasdonk (Stuttgart University)
+
+#### Talks
+  * Albert Cohen (Sorbonne Université)
+  * Yvon Maday (Sorbonne Université)
+  * Laure Blanc-Féraud (CNRS)
+  * Rémi Gribonval (INRIA)
+
+Organizers
+===========================
+  * Vincent Duval (INRIA)
+  * Olga Mula (Université Paris Dauphine)
+  * Nicolas Keriven (ENS)
+  * Gabriel Peyré (CNRS, ENS)
 
 Supported by
 ===========================
@@ -32,12 +51,13 @@ Supported by
 
 <p align="center">
 
-<a href="http://www.ens.fr">
-<img width="200" src="img/logo-ens.jpg"/>
+<a href="https://www.psl.eu/">
+<img width="200" src="img/logo-psl.jpg"/>
 </a>
-<a href="https://www.cfm.fr">
-<img width="200" src="img/logo-cfm.png"/>
+<a href="https://www.psl.eu/">
+<img width="200" src="img/logo-inria.jpg"/>
 </a>
-
 
 </p>
+
+The summer school is supported by the ERC grant [NORIA](http://www.gpeyre.com/noria).

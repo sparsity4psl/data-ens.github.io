@@ -35,8 +35,8 @@ Speakers
 #### Talks
 * [Albert Cohen](https://www.ljll.math.upmc.fr/cohen/) (Sorbonne Universités)
 * [Yvon Maday](https://www.ljll.math.upmc.fr/maday/) (Sorbonne Universités)
-* [Laure Blanc-Féraud](http://www-sop.inria.fr/members/Laure.Blanc_Feraud/) (CNRS)
-* [Rémi Gribonval](https://people.irisa.fr/Remi.Gribonval/) (INRIA)
+* [Laure Blanc-Féraud](http://www-sop.inria.fr/members/Laure.Blanc_Feraud/) (CNRS I3S)
+* [Rémi Gribonval](https://people.irisa.fr/Remi.Gribonval/) (INRIA Rennes)
 
 Organizers
 ===========================

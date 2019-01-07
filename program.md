@@ -38,7 +38,7 @@ The given titles are preliminary, the definitive program is coming soon.
 **High-dimensional sparse approximation**
 
 * [Yvon Maday](https://www.ljll.math.upmc.fr/maday/) (Sorbonne Universités)  
-**Mixing data and reduced models for rapid predictions and control**
+**Mixing data and reduced models for rapid predictions and control**  
  *Abstract*: Reconstruction of unknown functions from data has become one of the hottest problems in sciences and industry, especially that plethora of data are now available and people would like to use this amount to get more knowledge. Recent advances in AI (artificial intelligence) provided e.g. by deep neural network incite to get rid on profound understanding of the phenomenon and rely on the neural network to find the information by it self. If this may be true for many problems, in most situations the data are polluted with errors, are not structured enough or are incomplete. In these numerous cases, there is still need to HI (human intelligence) to provide the backbone of the data assimilation and/or treatment and help in getting stability and robustness. We shall present in this talk various applications of the use of reduced basis methods as such a backbone in case of different sizes of available data, and also of different noise level in these data.
 
 * [Laure Blanc-Féraud](http://www-sop.inria.fr/members/Laure.Blanc_Feraud/) (CNRS I3S)  

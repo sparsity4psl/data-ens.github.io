@@ -34,8 +34,9 @@ The given titles are preliminary, the definitive program is coming soon.
  with particular focus on surrogate modelling.
 
 ## Talks
-* [Albert Cohen](https://www.ljll.math.upmc.fr/cohen/) (Sorbonne Universités)  
-**High-dimensional sparse approximation**
+* [Albert Cohen](https://www.ljll.math.upmc.fr/cohen/) (Sorbonne Université)  
+**Optimal non-intrusive methods in arbitrary dimension**  
+ *Abstract*: Motivated by non-intrusive approaches for high-dimensional parametric PDEs, as well as other applications, we consider the approximation of an unknown arbirary function in any dimension from the data of point samples, where the approximants are picked from given or adaptively chosen finite dimensional spaces. One principal objective is to obtain an approximation which performs as good as the orthogonal projection using a sampling budget that is linear in the dimension of the approximating space. Using a particular sampling measure, this objective turns out to be met by both weighted least-squares and pseudo-spectral methods in some probabilistic sense, however with some notable distinctions that will be discussed in this talk. We also discuss how optimality can be maintained in an adaptive framework where the sampling measure needs to be updated together with the approximation space.
 
 * [Yvon Maday](https://www.ljll.math.upmc.fr/maday/) (Sorbonne Universités)  
 **Mixing data and reduced models for rapid predictions and control**  

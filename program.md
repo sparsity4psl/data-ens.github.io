@@ -15,7 +15,11 @@ The given titles are preliminary, the definitive program is coming soon.
 **Optimisation and applications in imaging**
 
 * [Karen Veroy-Grepl](https://www.aices.rwth-aachen.de/en/about-aices/people/principal-investigators/details-zur-person/veroy-grepl) (RWTH-Aachen)  
-**Introduction to Reduced Basis Methods: Theory and Applications**
+**Introduction to Reduced Basis Methods: Theory and Applications**  
+*Abstract*: This three-part course aims to provide an introduction to the theory and applications of model order reduction (MOR) techniques for parametrized partial differential equations, with a particular focus on reduced basis methods.  Part I begins with the basic aims of MOR for parametrized systems.  After a brief overview of different parametric MOR techniques, we introduce the basic elements of reduced basis (RB) methods — approximation, error estimation, sampling, and implementation — for different types of parametrized PDEs.  In Part II, we focus on RB methods for optimal control and variational data assimilation.  Here, we use the reduced order models as surrogates in the resulting optimization problem, and detail how the RB spaces and error estimates are developed for this particular setting.  In Part III, we discuss different application settings, particularly in medicine and the geosciences, as well as current research directions.  
+*Joint works with:* M. Grepl, S. Boyaval, M. Kärcher, N. Nellesen, Z. Tokoutsi and D. Degen.
+
+
 
 * [Bernard Haasdonk](https://www.ians.uni-stuttgart.de/institute/team/Haasdonk-00005/) (Stuttgart University)  
 **Kernel Methods for Surrogate Modelling**  
@@ -34,11 +38,13 @@ The given titles are preliminary, the definitive program is coming soon.
  with particular focus on surrogate modelling.
 
 ## Talks
-* [Albert Cohen](https://www.ljll.math.upmc.fr/cohen/) (Sorbonne Universités)  
-**High-dimensional sparse approximation**
+* [Albert Cohen](https://www.ljll.math.upmc.fr/cohen/) (Sorbonne Université)  
+**Optimal non-intrusive methods in arbitrary dimension**  
+ *Abstract*: Motivated by non-intrusive approaches for high-dimensional parametric PDEs, as well as other applications, we consider the approximation of an unknown arbirary function in any dimension from the data of point samples, where the approximants are picked from given or adaptively chosen finite dimensional spaces. One principal objective is to obtain an approximation which performs as good as the orthogonal projection using a sampling budget that is linear in the dimension of the approximating space. Using a particular sampling measure, this objective turns out to be met by both weighted least-squares and pseudo-spectral methods in some probabilistic sense, however with some notable distinctions that will be discussed in this talk. We also discuss how optimality can be maintained in an adaptive framework where the sampling measure needs to be updated together with the approximation space.
 
 * [Yvon Maday](https://www.ljll.math.upmc.fr/maday/) (Sorbonne Universités)  
-**Data coupling and reduced models**
+**Mixing data and reduced models for rapid predictions and control**  
+ *Abstract*: Reconstruction of unknown functions from data has become one of the hottest problems in sciences and industry, especially that plethora of data are now available and people would like to use this amount to get more knowledge. Recent advances in AI (artificial intelligence) provided e.g. by deep neural network incite to get rid on profound understanding of the phenomenon and rely on the neural network to find the information by it self. If this may be true for many problems, in most situations the data are polluted with errors, are not structured enough or are incomplete. In these numerous cases, there is still need to HI (human intelligence) to provide the backbone of the data assimilation and/or treatment and help in getting stability and robustness. We shall present in this talk various applications of the use of reduced basis methods as such a backbone in case of different sizes of available data, and also of different noise level in these data.
 
 * [Laure Blanc-Féraud](http://www-sop.inria.fr/members/Laure.Blanc_Feraud/) (CNRS I3S)  
 **Sparse norm relaxation and applications in microscopy**

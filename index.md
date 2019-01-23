@@ -16,7 +16,7 @@ Where and when
 Registration
 ============================
 
-Coming soon.
+**[Registration is free but mandatory. Please register before March 31st](/registration)**.
 
 Topics
 ===========================
@@ -44,6 +44,11 @@ Organizers
 * [Olga Mula](https://www.ceremade.dauphine.fr/~mula/) (Université Paris Dauphine)
 * [Nicolas Keriven](https://nkeriven.github.io/) (ENS)
 * [Gabriel Peyré](http://www.gpeyre.com/) (CNRS, ENS)
+
+Contact
+===========================
+
+sparsity4psl [dot] gmail [dot] com
 
 Supported by
 ===========================

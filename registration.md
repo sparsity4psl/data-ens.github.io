@@ -7,10 +7,14 @@ header-img: "img/paris-night2.png"
 
 Registration
 =======================
-Registration is free but mandatory. Please register before **March 31st, 2019**.
+Registration is free but mandatory.
 
-During registration you will be asked to provide a short cover letter (max. 5 lines), that will be used to select participants only if full capacity of the school is reached. Results will be announced no later than March 31st.
+[//]: <> (Please register before **March 31st, 2019**.)
 
-**<a href="https://docs.google.com/forms/d/e/1FAIpQLSd2kf952gDKGe7ckEmNZXU-6lxpKWjgPg-4x9swEh4qTIojnQ/viewform?usp=sf_link" target="blank">Registration form</a>**
+Official registration are now closed, however there are still a few open spots, please contact us by mail (with name, position and affiliation) if you wish to participate and we will answer you shortly.
+
+[//]: <> (During registration you will be asked to provide a short cover letter (max. 5 lines), that will be used to select participants only if full capacity of the school is reached. Results will be announced no later than March 31st.)
+
+[//]: <> (**<a href="https://docs.google.com/forms/d/e/1FAIpQLSd2kf952gDKGe7ckEmNZXU-6lxpKWjgPg-4x9swEh4qTIojnQ/viewform?usp=sf_link" target="blank">Registration form</a>**)
 
 Do not hesitate to contact us if you have any question: sparsity4psl [dot] gmail [dot] com

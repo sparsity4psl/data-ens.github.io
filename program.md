@@ -5,8 +5,75 @@ description: "<b>Sparsity for Physics, Signal and Learning <br> June 24th - 27th
 header-img: "img/inria.png"
 ---
 
-The given titles are preliminary, the definitive program is coming soon.
-
+<center>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-34fe{background-color:#c0c0c0;border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-5w3z{background-color:#ecf4ff;border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-2dfk{font-weight:bold;background-color:#ecf4ff;border-color:inherit;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-c3ow"></th>
+    <th class="tg-2dfk">Mon 24/06</th>
+    <th class="tg-2dfk">Tue 25/06</th>
+    <th class="tg-2dfk">Wed 26/06</th>
+    <th class="tg-2dfk">Thu 27/06</th>
+  </tr>
+  <tr>
+    <td class="tg-5w3z">9.00 - 10.30<br></td>
+    <td class="tg-c3ow">Chouzenoux 1<br></td>
+    <td class="tg-c3ow">Veroy 2</td>
+    <td class="tg-c3ow">Haasdonk 1</td>
+    <td class="tg-c3ow">Haasdonk 3</td>
+  </tr>
+  <tr>
+    <td class="tg-5w3z">10.30 - 11.00</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+  </tr>
+  <tr>
+    <td class="tg-5w3z">11.00 - 12.30</td>
+    <td class="tg-c3ow">Chouzenoux 2</td>
+    <td class="tg-c3ow">Veroy 3</td>
+    <td class="tg-c3ow">Haasdonk 2</td>
+    <td class="tg-c3ow">De Castro 2</td>
+  </tr>
+  <tr>
+    <td class="tg-5w3z">12.30 - 14.30<br></td>
+    <td class="tg-34fe"></td>
+    <td class="tg-34fe"></td>
+    <td class="tg-34fe"></td>
+    <td class="tg-34fe"></td>
+  </tr>
+  <tr>
+    <td class="tg-5w3z">14.30 - 15.30</td>
+    <td class="tg-c3ow">Blanc-Féraud</td>
+    <td class="tg-c3ow">Maday</td>
+    <td class="tg-c3ow">Cohen</td>
+    <td class="tg-c3ow">Gribonval</td>
+  </tr>
+  <tr>
+    <td class="tg-5w3z">15.30 - 16.00</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+  </tr>
+  <tr>
+    <td class="tg-5w3z">16.00 - 17.30</td>
+    <td class="tg-c3ow">Veroy 1</td>
+    <td class="tg-c3ow">Chouzenoux 3</td>
+    <td class="tg-c3ow">De Castro 1</td>
+    <td class="tg-c3ow">De Castro 3</td>
+  </tr>
+</table>
+</center>
 ## Courses
 * [Yohann De Castro](https://ydecastro.github.io/) (ENPC)  
 **Measures estimation with moments, off-the-grid inverse problems**

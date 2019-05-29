@@ -11,7 +11,7 @@ Registration is free but mandatory.
 
 [//]: <> (Please register before **March 31st, 2019**.)
 
-Official registration are now closed, however there are still a few open spots, please contact us by mail (with name, position and affiliation) if you wish to participate and we will answer you shortly.
+Registrations are now closed.
 
 [//]: <> (During registration you will be asked to provide a short cover letter (max. 5 lines), that will be used to select participants only if full capacity of the school is reached. Results will be announced no later than March 31st.)
 

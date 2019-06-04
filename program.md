@@ -5,6 +5,8 @@ description: "<b>Sparsity for Physics, Signal and Learning <br> June 24th - 27th
 header-img: "img/inria.png"
 ---
 
+Some courses will include practical sessions in Python, please *bring your own laptop*. The sessions will likely use online notebooks, however just in case we kindly ask you to have a Python 3 installation ready on your computers (see eg [Anaconda](https://www.anaconda.com/distribution/)).
+
 <center>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}

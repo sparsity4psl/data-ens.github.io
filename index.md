@@ -33,6 +33,7 @@ Speakers
 * [Emilie Chouzenoux](http://www-syscom.univ-mlv.fr/~chouzeno/) (Paris Est Marne-la-Vallée)
 * [Karen Veroy-Grepl](https://www.aices.rwth-aachen.de/en/about-aices/people/principal-investigators/details-zur-person/veroy-grepl) (RWTH-Aachen)
 * [Bernard Haasdonk](https://www.ians.uni-stuttgart.de/institute/team/Haasdonk-00005/) (Stuttgart University)
+* *Practical session: [James Nichols](http://james-nichols.github.io/) (Sorbonnes Universités)*
 
 #### Talks
 * [Albert Cohen](https://www.ljll.math.upmc.fr/cohen/) (Sorbonne Universités)

@@ -42,7 +42,7 @@ Some courses will include practical sessions in Python, please *bring your own l
   <tr>
     <td class="tg-5w3z">11.00 - 12.30</td>
     <td class="tg-c3ow">Chouzenoux 2</td>
-    <td class="tg-c3ow">Veroy 3</td>
+    <td class="tg-c3ow">Veroy 3 <br>+ practical</td>
     <td class="tg-c3ow">Haasdonk 2</td>
     <td class="tg-c3ow">De Castro 2</td>
   </tr>
@@ -86,7 +86,8 @@ Some courses will include practical sessions in Python, please *bring your own l
 * [Karen Veroy-Grepl](https://www.aices.rwth-aachen.de/en/about-aices/people/principal-investigators/details-zur-person/veroy-grepl) (RWTH-Aachen)  
 **Introduction to Reduced Basis Methods: Theory and Applications**  
 *Abstract*: This three-part course aims to provide an introduction to the theory and applications of model order reduction (MOR) techniques for parametrized partial differential equations, with a particular focus on reduced basis methods.  Part I begins with the basic aims of MOR for parametrized systems.  After a brief overview of different parametric MOR techniques, we introduce the basic elements of reduced basis (RB) methods — approximation, error estimation, sampling, and implementation — for different types of parametrized PDEs.  In Part II, we focus on RB methods for optimal control and variational data assimilation.  Here, we use the reduced order models as surrogates in the resulting optimization problem, and detail how the RB spaces and error estimates are developed for this particular setting.  In Part III, we discuss different application settings, particularly in medicine and the geosciences, as well as current research directions.  
-*Joint works with:* M. Grepl, S. Boyaval, M. Kärcher, N. Nellesen, Z. Tokoutsi and D. Degen.
+*Joint works with:* M. Grepl, S. Boyaval, M. Kärcher, N. Nellesen, Z. Tokoutsi and D. Degen.  
+*Practical session by [James Nichols](http://james-nichols.github.io/)*
 
 
 

@@ -18,7 +18,7 @@ Registration
 
 **[Registration is free but mandatory.](/registration)**
 
-Official registration are now closed, however there are still a few open spots, please contact us by mail (with name, position and affiliation) if you wish to participate and we will answer you shortly.
+Registration is now closed.
 
 Topics
 ===========================

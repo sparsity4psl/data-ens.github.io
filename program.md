@@ -26,6 +26,13 @@ Some courses will include practical sessions in Python, please *bring your own l
     <th class="tg-2dfk">Thu 27/06</th>
   </tr>
   <tr>
+    <td class="tg-5w3z">8.30 - 9.00<br></td>
+    <td class="tg-c3ow">Welcoming<br></td>
+    <td class="tg-c3ow"> </td>
+    <td class="tg-c3ow"> </td>
+    <td class="tg-c3ow"> </td>
+  </tr>
+  <tr>
     <td class="tg-5w3z">9.00 - 10.30<br></td>
     <td class="tg-c3ow">Chouzenoux 1<br></td>
     <td class="tg-c3ow">Veroy 2</td>
@@ -81,7 +88,19 @@ Some courses will include practical sessions in Python, please *bring your own l
 **Measures estimation with moments, off-the-grid inverse problems**
 
 * [Emilie Chouzenoux](http://www-syscom.univ-mlv.fr/~chouzeno/) (Paris Est Marne-la-Vallée)  
-**Optimisation and applications in imaging**
+**Majoration-Minimization algorithms for data processing at a large scale**
+In biology, medicine, geosciences, or astronomy, large amounts of data are being collected
+thanks to constant improvements of acquisition devices. This raises the need for sophisticated
+optimization tools able to deal with cost functions with a complex structure and
+many variables, at a low computational cost, stretching traditional techniques to their limits.  
+In this context, Majorization-Minimization (MM) approaches have become increasingly popular recently as they 
+consist of a class of efficient and effective optimization algorithms that benefit from solid theoretical foundations. 
+The objective of this course is to introduce the theoretical background which makes it possible to develop efficient MM algorithms.  
+General recipes for building accurate majorizing approximations will be discussed. Then, we will focus on quadratic MM methods, which will be
+shown to cover a wide range of existing algorithms for minimizing both smooth functions (eg, MM subspace methods) and non smooth ones (eg, proximal gradient approaches). 
+We will finally present block-coordinate approaches which now play a prominent role in the solution of
+large-scale optimization problems, and discuss their implementation on modern multicore or distributed computing architectures. 
+We will illustrate this course by several examples from signal/image processing and machine learning fields.
 
 * [Karen Veroy-Grepl](https://www.aices.rwth-aachen.de/en/about-aices/people/principal-investigators/details-zur-person/veroy-grepl) (RWTH-Aachen)  
 **Introduction to Reduced Basis Methods: Theory and Applications**  

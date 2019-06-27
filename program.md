@@ -90,21 +90,23 @@ Some courses will include practical sessions in Python, please *bring your own l
 * [Emilie Chouzenoux](http://www-syscom.univ-mlv.fr/~chouzeno/) (INRIA)  
 **Majoration-Minimization algorithms for data processing at a large scale**  
 *[Link to documents](http://www-syscom.univ-mlv.fr/~chouzeno/S4PSL/index.htm){:target="_blank"}*  
- In biology, medicine, geosciences, or astronomy, large amounts of data are being collected thanks to constant improvements of acquisition devices. This raises the need for sophisticated optimization tools able to deal with cost functions with a complex structure and many variables, at a low computational cost, stretching traditional techniques to their limits.  
+ *Abstract*: In biology, medicine, geosciences, or astronomy, large amounts of data are being collected thanks to constant improvements of acquisition devices. This raises the need for sophisticated optimization tools able to deal with cost functions with a complex structure and many variables, at a low computational cost, stretching traditional techniques to their limits.  
 The objective of this course is to introduce the theoretical background which makes it possible to develop efficient optimization algorithms for large scale problems. This course will be mainly focused on nonlinear optimization tools for dealing with convex and nonconvex problems. Proximal tools, parallel splitting techniques, Majorization-Minimization strategies and alternating minimization approaches will be presented. Illustrations of these methods on various problems will be provided. 
 
 * [Karen Veroy-Grepl](https://www.aices.rwth-aachen.de/en/about-aices/people/principal-investigators/details-zur-person/veroy-grepl) (RWTH-Aachen)  
 **Introduction to Reduced Basis Methods: Theory and Applications**  
-*[Slides]((https://sparsity4psl.github.io/files/sparsity4psl_veroy.pdf){:target="_blank"}*  
-*Abstract*: This three-part course aims to provide an introduction to the theory and applications of model order reduction (MOR) techniques for parametrized partial differential equations, with a particular focus on reduced basis methods.  Part I begins with the basic aims of MOR for parametrized systems.  After a brief overview of different parametric MOR techniques, we introduce the basic elements of reduced basis (RB) methods — approximation, error estimation, sampling, and implementation — for different types of parametrized PDEs.  In Part II, we focus on RB methods for optimal control and variational data assimilation.  Here, we use the reduced order models as surrogates in the resulting optimization problem, and detail how the RB spaces and error estimates are developed for this particular setting.  In Part III, we discuss different application settings, particularly in medicine and the geosciences, as well as current research directions.  
-*Joint works with:* M. Grepl, S. Boyaval, M. Kärcher, N. Nellesen, Z. Tokoutsi and D. Degen.  
-*Practical session by [James Nichols](http://james-nichols.github.io/)*
+*[Link to documents](presentations/Sparsity4PSL-Veroy-Grepl.pdf)*  
+
+ *Abstract*: This three-part course aims to provide an introduction to the theory and applications of model order reduction (MOR) techniques for parametrized partial differential equations, with a particular focus on reduced basis methods.  Part I begins with the basic aims of MOR for parametrized systems.  After a brief overview of different parametric MOR techniques, we introduce the basic elements of reduced basis (RB) methods — approximation, error estimation, sampling, and implementation — for different types of parametrized PDEs.  In Part II, we focus on RB methods for optimal control and variational data assimilation.  Here, we use the reduced order models as surrogates in the resulting optimization problem, and detail how the RB spaces and error estimates are developed for this particular setting.  In Part III, we discuss different application settings, particularly in medicine and the geosciences, as well as current research directions.  
+ *Joint works with:* M. Grepl, S. Boyaval, M. Kärcher, N. Nellesen, Z. Tokoutsi and D. Degen.  
+ *Practical session by [James Nichols](http://james-nichols.github.io/)*
 
 
 
 * [Bernard Haasdonk](https://www.ians.uni-stuttgart.de/institute/team/Haasdonk-00005/) (Stuttgart University)  
 **Kernel Methods for Surrogate Modelling**  
-*[Link to documents](http://www2.ians.uni-stuttgart.de/am/Haasdonk/data/sparsity4PSL/){:target="_blank"}*  
+*[Link to documents](http://www2.ians.uni-stuttgart.de/am/Haasdonk/data/sparsity4PSL/)*  
+
  *Abstract*: Kernel methods are a very efficient class of algorithms
  in numerical analysis and machine learning.
  For example they allow function interpolation or approximation,

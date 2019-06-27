@@ -95,8 +95,7 @@ The objective of this course is to introduce the theoretical background which ma
 
 * [Karen Veroy-Grepl](https://www.aices.rwth-aachen.de/en/about-aices/people/principal-investigators/details-zur-person/veroy-grepl) (RWTH-Aachen)  
 **Introduction to Reduced Basis Methods: Theory and Applications**  
-*[Link to documents](presentations/Sparsity4PSL-Veroy-Grepl.pdf)*  
-
+*[Slides](presentations/Sparsity4PSL-Veroy-Grepl.pdf)*  
  *Abstract*: This three-part course aims to provide an introduction to the theory and applications of model order reduction (MOR) techniques for parametrized partial differential equations, with a particular focus on reduced basis methods.  Part I begins with the basic aims of MOR for parametrized systems.  After a brief overview of different parametric MOR techniques, we introduce the basic elements of reduced basis (RB) methods — approximation, error estimation, sampling, and implementation — for different types of parametrized PDEs.  In Part II, we focus on RB methods for optimal control and variational data assimilation.  Here, we use the reduced order models as surrogates in the resulting optimization problem, and detail how the RB spaces and error estimates are developed for this particular setting.  In Part III, we discuss different application settings, particularly in medicine and the geosciences, as well as current research directions.  
  *Joint works with:* M. Grepl, S. Boyaval, M. Kärcher, N. Nellesen, Z. Tokoutsi and D. Degen.  
  *Practical session by [James Nichols](http://james-nichols.github.io/)*
@@ -106,7 +105,6 @@ The objective of this course is to introduce the theoretical background which ma
 * [Bernard Haasdonk](https://www.ians.uni-stuttgart.de/institute/team/Haasdonk-00005/) (Stuttgart University)  
 **Kernel Methods for Surrogate Modelling**  
 *[Link to documents](http://www2.ians.uni-stuttgart.de/am/Haasdonk/data/sparsity4PSL/)*  
-
  *Abstract*: Kernel methods are a very efficient class of algorithms
  in numerical analysis and machine learning.
  For example they allow function interpolation or approximation,
@@ -132,6 +130,7 @@ The objective of this course is to introduce the theoretical background which ma
 
 * [Laure Blanc-Féraud](http://www-sop.inria.fr/members/Laure.Blanc_Feraud/) (CNRS I3S)  
 **On sparse-l0 solutions of least-square fitting : on-grid methods, algorithms, and some results on image processing**  
+*[Slides](presentations/Slides_Sparsity4PSL_LBF_juin2019.pdf)*  
 *Abstract*: The talk will be focused on minimization of criteria involving a least-square data term which links the solution to the noisy measurements and a l0-term  imposing sparsity to the solution, minimizing or constraining the number of non-zero components of the solution. In some real problems of signal and image processing, the sparsity cannot be imposed via convex l1-term but needs to be imposed by non-convex, non-continuous l0-term. The optimization problem is known to be NP hard. Several approaches will be presented with algorithms and results will be shown  especially on  super-resolution  microscopy.
 
 * [Rémi Gribonval](https://people.irisa.fr/Remi.Gribonval/) (INRIA Rennes)  
